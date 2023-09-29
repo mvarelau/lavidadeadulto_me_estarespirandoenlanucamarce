@@ -1,6 +1,6 @@
 # logical_function
 El lindo repo del bello reto #6
-##Punto 1
+## Punto 1 - Figuritas bpnitas 
 Para hacer el punto 1 es necesario tener en cuenta los sigientes aspectos:
 + Area y Volumen de una esfera y un cono:
   ![image](https://github.com/mvarelau/logical_function/assets/141885396/13774f92-f734-44ca-a842-8d0619804494)
