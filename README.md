@@ -70,7 +70,7 @@ Ver documento:[#mami_que_era.py](/#mami_que_era)
 # Punto 5 
 Para este punto tuve que averiguar cual era la ecuación del interes compuesto:
 ![image](https://github.com/mvarelau/logical_function/assets/141885396/1b357e7e-df56-4e45-bf7c-204768fe028a)
-Y adespues de eso hice un código en el eque el usuario ingresa cada uno de los valores y posteriormente se calcula el prestano total:
++ Y despues de eso hice un código en el que el usuario ingresa cada uno de los valores y posteriormente se calcula el prestamo total:
 ```python
 #Interes compuesto 
 def Valorprestamo():
@@ -265,7 +265,7 @@ def cubicamenor(a:float, b:float , c:float , d:float , e:float ) -> float:
     return cubica
 ```
 Ver documento:
-#Punto 8
+# Punto 8
 
 
     
