@@ -48,6 +48,7 @@ def carnita(N, M, K):
 
 carnita(((float(input("Ingrese la cantidad de gallinas: "))), (float(input("Ingrese la cantidad de gallos: "))), (float(input("Ingrese la cantidad de pollitos: ")))))
 ```
+Ver documento:  [Un_carrito.py](/Un_carrito.py)
 # Punto 3
 Para este punto, solo debiamos multiplicar los animales por el peso de su carne y despues sumarlos 
 ```python
@@ -58,7 +59,7 @@ def carnita(N, M, K):
 
 carnita(((float(input("Ingrese la cantidad de gallinas: "))), (float(input("Ingrese la cantidad de gallos: "))), (float(input("Ingrese la cantidad de pollitos: ")))))
 ````
-Ver documento: 
+Ver documento:  [# Animalitos.py](/# Animalitos.py)
 # Punto 4
 Para esta función solo hace falta restar la suma de la multiplicación de la cantidad de cada uno de los productos a la cantidad de dinero. En este código lo primero que huci fue declarar e inicialiazar las variables y despues definir otra variable con la función, dependiendo la cantidad de dindero sobrante se escribe un mensaje determinado.
 ```python
@@ -93,19 +94,19 @@ def Valorprestamo():
 
 Valorprestamo()
 ```
-Ver documento: 
+Ver documento:  [#Interes compuesto.py](/#Interes compuesto.py)
 # Punto 6
 El objetivo de este punto fue calcular la cantidad de enfermos en un pais en el que el contagio se duplica diariamente:
 ```python
 #Diosmioseñorsalvanos
 def covid():
-    D = float(input("Ingrese el numero de días que han pasdo: "))
+    D = float(input("Ingrese el numero de días que han pasado: "))
     C = float(input("Ingrese el número de contagiados hasta hoy: "))
     Numerode_enfermos= (2**D)+C
     print(f"El  número de contgios toltales es:{Numerode_enfermos} ")
 covid()
 ```
-Ver documento:
+Ver documento:[#Diosmioseñorsalvanos.py](/#Diosmioseñorsalvanos.py)
 # Punto 7
 Quitasueños3000 :)
 ```python
@@ -275,7 +276,7 @@ def cubicamenor(a:float, b:float , c:float , d:float , e:float ) -> float:
     cubica = menor**1/3
     return cubica
 ```
-Ver documento:
+Ver documento: 
 # Punto 8
 Para importar las funciones del anterior punto uso *impor*del documneto del punto anterior. Acá ademas de importar las funciones, ahora las variables pueden ser ingresadas por el usuario.
 ```python
