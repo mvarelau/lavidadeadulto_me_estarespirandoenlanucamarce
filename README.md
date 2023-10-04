@@ -94,7 +94,7 @@ def Valorprestamo():
 Valorprestamo()
 ```
 Ver documento: 
-#Punto 6
+# Punto 6
 El objetivo de este punto fue calcular la cantidad de enfermos en un pais en el que el contagio se duplica diariamente:
 ```python
 #Diosmioseñorsalvanos
