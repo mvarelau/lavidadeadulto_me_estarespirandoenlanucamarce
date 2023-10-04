@@ -277,6 +277,48 @@ def cubicamenor(a:float, b:float , c:float , d:float , e:float ) -> float:
 ```
 Ver documento:
 # Punto 8
+Para importar las funciones del anterior punto uso *impor*del documneto del punto anterior. Acá ademas de importar las funciones, ahora las variables pueden ser ingresadas por el usuario.
+```python
+from Quitasueñors3000_evolucionado import * 
+promedio(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+mediana(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+promediomultiplicativo(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+ordendescendente(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+ordenascendente(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+Potencia(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+cubicamenor(a =float(input("a: ")),b =float(input("b: ")), c =float(input("c: ")) , d =float(input("d: ")), e =float(input("e: ")))
+
+```
+# Punto 9
+Pip en Python es una herramienta que facilita la instalación y gestión de bibliotecas y herramientas que no vienen con Python de serie. Te permite instalar fácilmente paquetes desde el Python Package Index (PyPI), simplificando la gestión de dependencias y la instalación de software adicional en tus proyectos Python.
+Para intalar los pip simplemente se abre la terminal o el símbolo del sistema en el computador, y ejecuta el comando correspondiente para instalar el módulo que necesitas. Asegúrate de tener una conexión a Internet para que pip pueda descargar e instalar los paquetes correctamente.
+
+# Punto 10
+ 1. *Pandas* (para manipulación y análisis de datos):
+   
+   pip install pandas
+   
+
+2. *NumPy* (para operaciones numéricas y matemáticas):
+   
+   pip install numpy
+   
+
+3. *Matplotlib* (para visualización de datos):
+   
+   pip install matplotlib
+   
+
+4. *Django* (para desarrollo web):
+   
+   pip install django
+   
+
+5. *Flask* (para desarrollo web minimalista):
+   
+   pip install flask
+
+
 
 
     
