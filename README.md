@@ -1,6 +1,6 @@
 # logical_function
 El lindo repo del bello reto #6
-# Punto 1 - Figuritas bpnitas 
+# Punto 1 - Figuritas bonitas 
 Para hacer el punto 1 es necesario tener en cuenta los sigientes aspectos:
 + Area y Volumen de una esfera y un cono:
   ![image](https://github.com/mvarelau/logical_function/assets/141885396/13774f92-f734-44ca-a842-8d0619804494)
@@ -48,6 +48,17 @@ def carnita(N, M, K):
 
 carnita(((float(input("Ingrese la cantidad de gallinas: "))), (float(input("Ingrese la cantidad de gallos: "))), (float(input("Ingrese la cantidad de pollitos: ")))))
 ```
+# Punto 3
+Para este punto, solo debiamos multiplicar los animales por el peso de su carne y despues sumarlos 
+```python
+# Animalitos
+def carnita(N, M, K):
+    total: float= 6*N + 7*M + K
+    print(f"El total de kilos de carne es: {total}")
+
+carnita(((float(input("Ingrese la cantidad de gallinas: "))), (float(input("Ingrese la cantidad de gallos: "))), (float(input("Ingrese la cantidad de pollitos: ")))))
+````
+Ver documento: 
 # Punto 4
 Para esta función solo hace falta restar la suma de la multiplicación de la cantidad de cada uno de los productos a la cantidad de dinero. En este código lo primero que huci fue declarar e inicialiazar las variables y despues definir otra variable con la función, dependiendo la cantidad de dindero sobrante se escribe un mensaje determinado.
 ```python
